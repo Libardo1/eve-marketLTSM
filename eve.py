@@ -1,4 +1,4 @@
-# Stacked LSTM adapted from machinelearningmaster.com  with memory of past stages.
+
 import numpy
 import matplotlib.pyplot as plt
 import pandas
